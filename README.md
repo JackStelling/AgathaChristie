@@ -9,7 +9,7 @@ This notebook implements Natural Language Processing (NLP) using the book 'Poiro
 #### Technical specifications notebook was created on:
 
 
--- *Environment:*  **MS Azure**
+-- *Environment:*  **MS Azure**, **Tensorflow 2.3**, **Python 3.6**
 
 -- *Virtual Machine Size:*  **6 Cores, 56 GB RAM, 380 GB DISK**
 
